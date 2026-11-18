@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Terms of Service - Paralex</title>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p>Last updated: November 2026</p>
+  <p>Paralex is a private, internal automation tool developed and operated exclusively by its owner for personal content management and livestream workflows.</p>
+  <h2>1. Use of Service</h2>
+  <p>This application is not offered to the general public and is strictly limited to authorized internal accounts.</p>
+  <h2>2. Third-Party Services</h2>
+  <p>Paralex integrates with the YouTube API Services. By using this application, the user agrees to be bound by the <a href="https://www.youtube.com/t/terms" target="_blank" rel="noopener noreferrer">YouTube Terms of Service</a> and the <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">Google Privacy Policy</a>.</p>
+  <h2>3. Disclaimer</h2>
+  <p>The software is provided "as is", without warranty of any kind, express or implied.</p>
+</body>
+</html>
